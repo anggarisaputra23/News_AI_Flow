@@ -10,7 +10,7 @@ In today's information-driven world, the sheer volume of news can overwhelm both
 News analysis in field of News QnA, Sentiment, and Summary using Streamlit as user interface
 
 **Clone git** \
-`$ git clone https://github.com/PrasetyoWidyantoro/News-AI-Flow.git` \
+`$ git clone https://github.com/anggarisaputra23/News-AI-Flow.git` \
 `$ cd News-AI-Flow` 
 
 **Create conda env** \
